@@ -32,7 +32,7 @@ app.post('/',(req,res) => {
     }
 
     const jSONDATA = JSON.stringify(data)
-    const url = 'https://us9.api.mailchimp.com./3.0/lists/1df3f3f150'
+    const url = 'https://us9.api.mailchimp.com./3.0/lists/1df3f3f159'
     const option = {
         method:'POST',
         auth:'Harik:213d1c222a15ae268921119587aff465-us9'
